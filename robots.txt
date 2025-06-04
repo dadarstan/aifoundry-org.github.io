@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /terms-and-conditions/
+Disallow: /not-found/
+
+Host: https://aifoundry.org
+Sitemap: https://aifoundry.org/sitemap.xml
